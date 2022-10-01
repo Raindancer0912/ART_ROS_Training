@@ -1,7 +1,7 @@
 # ART_ROS_Training
 Training Repo for ROS Onboarding
 
-Clone this Repo:
+### Clone this Repo:
 
 Make a directory for the clone
 
@@ -13,10 +13,10 @@ Change to the directory you just created
 
 Clone a repo into that directory
 
-```git clone <repo_key>```
+```git clone https://github.com/Raindancer0912/ART_ROS_Training.git```
 
 
-Basic Commands
+### Basic Commands
 
 To check status 
 
