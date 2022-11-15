@@ -6,9 +6,9 @@ import math
 
 class Location:
     def __init__(self):
-        self.x=pose.Point.x()
-        self.y=pose.Point.y()
-        self.y=pose.Point.z()
+        self.x=pose.Point.x
+        self.y=pose.Point.y
+        self.y=pose.Point.z
 
 def move_to_goal(x_goal,y_goal):
     rospy.init_node("move_to_goal",anonymous=True)
